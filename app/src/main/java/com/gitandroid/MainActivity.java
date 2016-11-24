@@ -12,5 +12,11 @@ public class MainActivity extends AppCompatActivity {
         String a="qwerty";
         String b = "uiop";
 
+        String c="asdf";
+        String d="ghjkl";
+
+
+        String e="Welcome";
+
     }
 }
