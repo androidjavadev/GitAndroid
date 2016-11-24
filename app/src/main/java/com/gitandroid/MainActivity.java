@@ -2,6 +2,7 @@ package com.gitandroid;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -15,8 +16,14 @@ public class MainActivity extends AppCompatActivity {
         String c="asdf";
         String d="ghjkl";
 
-
         String e="Welcome";
+
+        Log.e("AA","AAA");
+        Log.e("AA","AAA");
+        Log.e("AA","AAA");
+        Log.e("AA","AAA");
+        Log.e("AA","AAA");
+        Log.e("AA","AAA");
 
     }
 }
