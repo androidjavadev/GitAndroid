@@ -18,12 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
         String e="Welcome";
 
-        Log.e("AA","AAA");
-        Log.e("AA","AAA");
-        Log.e("AA","AAA");
-        Log.e("AA","AAA");
-        Log.e("AA","AAA");
-        Log.e("AA","AAA");
+        Log.e("BB","BB");
 
     }
 }
