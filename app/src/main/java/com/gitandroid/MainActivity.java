@@ -38,4 +38,15 @@ public class MainActivity extends AppCompatActivity {
         Log.e("AA","AA");
         Log.e("AA","AA");
     }
+
+    public void cc()
+    {
+        Log.e("AA","AA");
+        Log.e("AA","AA");
+        Log.e("AA","AA");
+        Log.e("AA","AA");
+        Log.e("AA","AA");
+        Log.e("AA","AA");
+        Log.e("AA","AA");
+    }
 }
